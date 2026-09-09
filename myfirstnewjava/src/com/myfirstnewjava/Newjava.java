@@ -8,20 +8,20 @@ public class Newjava {
 		}
 	
 	static void display1() {
-		System.out.println("hello java");
+		System.out.println("method 1 called");
 	    
 		
 	}
 	static void display2() {
-		System.out.println ("Jvm introduction");
+		System.out.println ("method 2 called");
 	   n1.display3();
 	}
 	void display3 () {
-		System.out.println("MY sql");
+		System.out.println("method 3 called");
 		n1.display4();
 	}
 	void display4 () {
-		System.out.println("sql");
+		System.out.println("method 4 clled");
 		
 	}
 	
